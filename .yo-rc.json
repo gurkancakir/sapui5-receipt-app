@@ -1,0 +1,16 @@
+{
+  "@sapui5/generator-sapui5-templates": {
+    "promptValues": {
+      "ApplicationTitle": "Receipt",
+      "ApplicationDescription": "Receipt App",
+      "FLP": true,
+      "ServiceBaseUri": "localhost:8080/api/test",
+      "DatasourceUrl": "TEST_DATASOURCE",
+      "ObjectCollection": "GetReceipts",
+      "ObjectCollection_Key": "ReceiptId",
+      "Object_Identifier": "ReceiptName",
+      "Object_Number": "",
+      "Object_UnitOfMeasure": ""
+    }
+  }
+}
